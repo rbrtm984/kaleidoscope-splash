@@ -9,4 +9,6 @@ module.exports = {
       },
     },
   };
-  
+
+  // add a console log to print the webpack config
+console.log(require('react-scripts/config/webpack.config'));
