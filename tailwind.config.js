@@ -1,17 +1,17 @@
 /** @type {import('tailwindcss').Config} */
-const defaultTheme = require('tailwindcss/defaultTheme')
+// const defaultTheme = require('tailwindcss/defaultTheme')
 
-module.exports = {
+export default {
   content: ['./src/**/*.tsx', './src/**/*.html'],
   theme: {
     extend: {
       fontFamily: {
-        sans: ['ui-sans-serif', ...defaultTheme.fontFamily.sans]
+        // sans: ['ui-sans-serif', ...defaultTheme.fontFamily.sans]
       }
     },
   },
   plugins: [
-    require('@tailwindcss/forms')
+    // require('@tailwindcss/forms')
   ],
 }
 

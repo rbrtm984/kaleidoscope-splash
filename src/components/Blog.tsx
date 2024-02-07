@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-// import { XIcon } from '@heroicons/react/outline';
+import { XIcon } from '@heroicons/react/outline';
 
 export default function Example() {
   const [isVisible, setIsVisible] = useState(true);
@@ -48,7 +48,7 @@ export default function Example() {
       <div className="flex flex-1 justify-end">
         <button type="button" className="-m-3 p-3 focus-visible:outline-offset-[-4px]" onClick={closeBanner}>
           <span className="sr-only">Dismiss</span>
-          {/* <XIcon className="h-5 w-5 text-white" aria-hidden="true" /> */}
+          <XIcon className="h-5 w-5 text-white" aria-hidden="true" />
         </button>
       </div>
     </div>

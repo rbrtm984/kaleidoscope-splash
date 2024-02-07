@@ -1,15 +1,16 @@
+import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./styles/tailwind.css";
 
-const basePath = process.env.PUBLIC_URL || "";
+// const basePath = import.meta.env.VITE_PUBLIC_URL || "";
 
 // Configure routes using createBrowserRouter
 // Define paths and the components to render for each path
 const router = createBrowserRouter([
   {
-    path: `${basePath}/`,
+    path: `/`,
     element: <App />, // Render App component at root path
   },
 ]);
