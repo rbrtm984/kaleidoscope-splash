@@ -1,5 +1,7 @@
 # Kaleidoscope Splash Page
 
+View the live page : http://tinyurl.com/KaleidoscopeObservability
+
 Kaleidoscope Project Repo : https://github.com/oslabs-beta/kaleidoscope
 
 Kaleidoscope Splash is a single page web application designed to showcase the functionality of our project.
