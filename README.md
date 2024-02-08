@@ -1,8 +1,16 @@
-# React + Vite
+# Splash Page for Kaleidoscope Observability
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Built with:
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
-Currently, two official plugins are available:
+# Kaleidoscope Splash
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
+
+Kaleidoscope Splash is a single page web application designed to showcase the functionality of the Kaleidoscope project.
+
+## Credits
+Kaleidoscope Splash was created by Robert Mayo, Herman Chen, Tommy Hales and Christopher Jettoo.
+
+## License
+This project is licensed under the MIT License.
