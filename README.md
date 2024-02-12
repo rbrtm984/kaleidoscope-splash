@@ -1,5 +1,4 @@
-# Kaleidoscope Splash Page
-
+# Kaleidoscope Splash 🔭
 View the live page : http://tinyurl.com/KaleidoscopeObservability
 
 Kaleidoscope Project Repo : https://github.com/oslabs-beta/kaleidoscope
